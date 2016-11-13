@@ -6,3 +6,5 @@ We didn't write the whole code, but we had to implement several methods in the p
 To launch the rendering engine :
 * select a scene in the data directory (for example, data/example2.scene)
 * type `java Renderer data/example2.scene`
+
+![A screenshot](screenshot.png)
